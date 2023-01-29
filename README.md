@@ -6,16 +6,16 @@ The goal was to learn independently (by doing) the usage of tkinter Python libra
 
 The calculator is able to perform all basic operations as well as several scientific ones, including 
 
- > statistical operations
- > limits and factorials
- > trigonometrical functions, arcfunctions and hyperbolic functions
- > degree-to-radian and radian-to-degree conversions
- > derivatives and integrals
+ * statistical operations
+ * limits and factorials
+ * trigonometrical functions, arcfunctions and hyperbolic functions
+ * degree-to-radian and radian-to-degree conversions
+ * derivatives and integrals
 
 It also features:
- > e, Pi and infinite constans
- > two types of parenthesis [] and ()
- > four classical variables x,y,z and t.
+ * e, Pi and infinite constans
+ * two types of parenthesis [] and ()
+ * four classical variables x,y,z and t.
  
 ![image](https://user-images.githubusercontent.com/123891760/215344042-e1cf51fe-f975-4671-9ee7-89bd45018a41.png)
 
